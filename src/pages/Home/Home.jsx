@@ -23,7 +23,7 @@ const Home = () => {
           borderRadius: "5px",
         }}
       >
-        Login
+        Logout
       </button>
     </div>
   );
